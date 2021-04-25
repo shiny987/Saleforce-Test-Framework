@@ -1,5 +1,4 @@
 /**
- * @author Gabriele Basile
  *
  *
  * @description This class can be used as a low level API to build or create SObjects of any given type. It provides
