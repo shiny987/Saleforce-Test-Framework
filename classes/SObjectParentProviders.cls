@@ -1,6 +1,4 @@
 /**
- * @author Gabriele Basile
- * @date 03/2021
  * @description This is a wrapper class which contains commonly used providers that work with SObjects.
  */
 public without sharing class SObjectParentProviders {
@@ -217,7 +215,7 @@ public without sharing class SObjectParentProviders {
         }
     }
 
- 	/**
+    /**
      * @description This class is the same as MultiParentProvider, except it will
      * create a unique parent for every record being created.
      */
