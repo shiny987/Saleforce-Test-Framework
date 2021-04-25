@@ -1,5 +1,4 @@
 /**
-* @author Gabriele Basile
 *
 *
 * @description 	This class can be used to generate one or more records of any given SObjectType, provided the
